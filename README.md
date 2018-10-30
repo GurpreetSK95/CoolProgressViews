@@ -8,10 +8,12 @@ Android library with collection of cool progress views.<br><br>
     <li><a href="https://android.libhunt.com/project/coolprogressviews">Android Library Hunt</a></li>
     <li><a href="https://material.uplabs.com/posts/coolprogressviews">MaterialUp</a></li>
 </ul>
-DEMO
+<br><br>
+## DEMO
+<br>
 <img src="https://cloud.githubusercontent.com/assets/12881364/23580783/04e3ba40-012e-11e7-9580-f65891f222aa.gif"><br><br>
 
-<b>DOWNLOAD
+<b>DOWNLOAD</b>
 <p>Add this to your root <code>build.gradle</code> file</p>
 
 <pre><code>allprojects {
@@ -45,7 +47,7 @@ According to above DEMO:-
 <li><code>DoubleArcProgress</code></li>
 </ul>
 <br><br>
-#USAGE
+## USAGE
 <p>In your Layout XML add this (all the app:.... attributes are optional and have default values
 <p><b>For CircleWithArcProgress</b></p>
 <pre><code>    &lt;com.developers.coolprogressviews.CircleWithArcProgress
